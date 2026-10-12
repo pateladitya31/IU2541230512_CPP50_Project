@@ -1,0 +1,6 @@
+# Agents: vehicle(B/S/C)|id|name|phone|baseArea|available(1/0)|rating|deliveries
+B|2001|Ravi Patel|9898011111|Navrangpura|1|5.00|1
+S|2002|Imran Shaikh|9879022222|Bodakdev|0|4.00|1
+C|2003|Kiran Desai|9925033333|Prahlad Nagar|0|5.00|1
+B|2004|Neha Joshi|9737044444|Maninagar|1|4.00|1
+S|2005|Dhruv Shah|9624055555|Vastrapur|1|4.00|0

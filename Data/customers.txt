@@ -1,0 +1,7 @@
+# Customers: id|name|phone|address|loyaltyPoints|ordersPlaced
+1001|Aarav Mehta|9825012345|12 Satellite Road, Satellite|90|2
+1002|Priya Nair|9724067890|45 Navrangpura Society|69|2
+1003|Rahul Verma|9909011223|8 Bodakdev Heights|130|1
+1004|Sneha Kulkarni|9638044556|21 Vastrapur Lake Road|0|1
+1005|Karan Thakkar|9427077889|3 Prahlad Nagar Avenue|0|1
+1006|Meera Trivedi|9512033445|17 Maninagar Cross Road|0|0

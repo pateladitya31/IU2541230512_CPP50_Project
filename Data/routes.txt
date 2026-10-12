@@ -1,0 +1,6 @@
+# Routes: id|source|destination|distanceKm|trafficFactor
+3001|Satellite Kitchen|Bodakdev|4.5|1.20
+3002|Navrangpura Cafe|Vastrapur|6.0|1.40
+3003|CG Road Diner|Maninagar|9.5|1.60
+3004|Prahlad Nagar Bistro|Satellite|3.0|1.10
+3005|Law Garden Eatery|Bopal|12.0|1.30
